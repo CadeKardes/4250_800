@@ -2,6 +2,7 @@ The first class, you will need to find your enumber and add today's date next to
 Please leave blank line between entries. If you don't see your enumber, please add it (leaving a blank line on either side of it) and add the date.
 For subsequent classes, change the date to the keyword I give you at the start of class.
 
+E00760025: i am taking my final exam today.
 E00764229 - 3/3/2026 - I am presenting the semester project.
 E00760025: i am learning SE and AI contract today.
 E00769563 SE and AI context
@@ -82,7 +83,7 @@ E00773450 1/20/2026
 
 E00773450: 1/22/2026
 
-E00766705  3/31/2026 I am learning software project management
+E00766705  5/5/2026 I am taking my final exam
 E00766705  3/24/2026 I am learning continous delivery
 
 E00773451: 1/22/2026
@@ -100,9 +101,48 @@ E00766705  3/31/2026 SE and AI context
 E00773326  1-22-2026
 E00759597: I am learning SE and AI context. 
 E00762858 5/5/2026 I am taking my final exam for the course. 
+E00759597: I am taking my final exam for SE. 
+E00762858 4/23/2026 I am delivering my semester project presentation. 
 E00761557: 04/14/2026, I am learning SE and AI context. !*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
 E00745033  I'm learning Scrum.
-E00737402 04/14/2026 -  I am learning SE % AI ***
+
+E00762685  1-20-2026
+
+E00766705  1/29/2026 I'm learning scrum this week.
+
+E00760025  1/20/2026 
+
+E00768063  1/20/2026
+
+E00764314  1/20/2026
+
+E00763382  1/20/2026
+
+E00737402 02/10/2026 - Im learning software design ***
+E00764314 1/22/2026
+
+
+E00760782  I am taking the final exam for the course
+  
+E00762509 1/20/2026
+
+E00763804  1/20/2026
+
+E00762509 1/22/2026
+
+E00763804 1/20/2026
+
+E00763804 I'm learning about life cycles 
+
+E00769563 1/20/2026
+
+E00763382 - 1/22/2026
+
+E00769563 1/22/2026
+E00760024 1/29/2026 - im learning SCRUM requirements today
+
+E00762509 - I am learning about scrum today. 
+E00737402 05/5/2026 -  I am taking the final exam ***
 E00760782  SE and AI context
 E00762509 - I am doing sprint demo. 
 E00764314 1/29/2026 - I'm learning about Scrum
@@ -128,7 +168,7 @@ E00762509 - I am learning continous integration
 E00762509 - I am learning detail design and Sprint 2
 E00762509 - I am delivering my final project presentation today.
 E00771613 - I am doing Software Maintenance
-E00771613 - I am learning software project management 
+E00771613 - I am taking the Final Exam
 E00763804 - 2/10/2026 I'm learning about Software Design
 
 E00764314 - I am learning Software Project Management! Jez
@@ -144,10 +184,13 @@ E00765108 - 3-31-26 I am learning software project management
 E00763804 - 4/23/2026 I'm delivering my semester project presentation.
 E00764321 - 4/14/2026 - SE and AI context
 E00760024 3/26/2026 - I am LEARNING SE and AI contract :3
-E00762509 - I am learning software project managment 
+E00762509 - I am taking my final exam
 E00771613 - I am doing SE and AI context
 E00764314 - I'm learning SE and AI context! Jez
 E00763382 - I am learning SE and AI context.
 E00763804 - 4/14/2026 I'm learning SE and AI context.
 E00765108 - 4-14-26  I am learning Software Engineering in the Age of Agentic Ai
 E00765103 - 4-9-26 I am learning security and privacy
+E00763804 5/5/2026 I am taking my final exam. 
+
+E00765108 - 5-5-26 I am taking my final Exam
